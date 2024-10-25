@@ -247,7 +247,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Cible: {fileID: 300920886}
-  VisuCube: {fileID: 2684300819133698654, guid: d21f085a00e986e4695c94b241cc2f4a, type: 3}
+  VisuCube: {fileID: 3883656307575137103, guid: d21f085a00e986e4695c94b241cc2f4a, type: 3}
   multiplier: 0.00000001
 --- !u!114 &187895823
 MonoBehaviour:
